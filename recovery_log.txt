@@ -1,0 +1,236 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, December 6, 2025 10:46:45 PM
+   Source : C:\Users\dylaa\Desktop\SimulasiDrive_D\
+     Dest : C:\Users\dylaa\Desktop\SimulasiDrive_C\
+
+    Files : *.*
+	    
+  Options : *.* /V /TEE /S /E /DCOPY:DA /COPY:DAT /Z /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Users\dylaa\Desktop\SimulasiDrive_D\
+	                   2	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_A\
+	          same		    2048	cofig_1.ini
+	          same		    3072	database_1.db
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A1\
+	          same		    5120	aplikasi_1_A.bat
+	          same		    3072	catatan_1_A.txt
+	          same		    2048	data_1_A.docx
+	          same		    1024	dokumen_1_A.pdf
+	          same		    4096	laporan_1_A.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A2\
+	          same		    5120	aplikasi_2_A.bat
+	          same		    3072	catatan_2_A.txt
+	          same		    2048	data_2_A.docx
+	          same		    1024	dokumen_2_A.pdf
+	          same		    4096	laporan_2_A.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_A\Subfolder_A3\
+	          same		    5120	aplikasi_3_A.bat
+	          same		    3072	catatan_3_A.txt
+	          same		    2048	data_3_A.docx
+	          same		    1024	dokumen_3_A.pdf
+	          same		    4096	laporan_3_A.csv
+	                   2	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_B\
+	          same		    2048	cofig_2.ini
+	          same		    3072	database_2.db
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B1\
+	          same		    5120	aplikasi_1_B.bat
+	          same		    3072	catatan_1_B.txt
+	          same		    2048	data_1_B.docx
+	          same		    1024	dokumen_1_B.pdf
+	          same		    4096	laporan_1_B.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B2\
+	          same		    5120	aplikasi_2_B.bat
+	          same		    3072	catatan_2_B.txt
+	          same		    2048	data_2_B.docx
+	          same		    1024	dokumen_2_B.pdf
+	          same		    4096	laporan_2_B.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_B\Subfolder_B3\
+	          same		    5120	aplikasi_3_B.bat
+	          same		    3072	catatan_3_B.txt
+	          same		    2048	data_3_B.docx
+	          same		    1024	dokumen_3_B.pdf
+	          same		    4096	laporan_3_B.csv
+	                   2	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_C\
+	          same		    2048	cofig_3.ini
+	          same		    3072	database_3.db
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C1\
+	          same		    5120	aplikasi_1_C.bat
+	          same		    3072	catatan_1_C.txt
+	          same		    2048	data_1_C.docx
+	          same		    1024	dokumen_1_C.pdf
+	          same		    4096	laporan_1_C.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C2\
+	          same		    5120	aplikasi_2_C.bat
+	          same		    3072	catatan_2_C.txt
+	          same		    2048	data_2_C.docx
+	          same		    1024	dokumen_2_C.pdf
+	          same		    4096	laporan_2_C.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_C\Subfolder_C3\
+	          same		    5120	aplikasi_3_C.bat
+	          same		    3072	catatan_3_C.txt
+	          same		    2048	data_3_C.docx
+	          same		    1024	dokumen_3_C.pdf
+	          same		    4096	laporan_3_C.csv
+	                   2	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_D\
+	          same		    2048	cofig_4.ini
+	          same		    3072	database_4.db
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D1\
+	          same		    5120	aplikasi_1_D.bat
+	          same		    3072	catatan_1_D.txt
+	          same		    2048	data_1_D.docx
+	          same		    1024	dokumen_1_D.pdf
+	          same		    4096	laporan_1_D.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D2\
+	          same		    5120	aplikasi_2_D.bat
+	          same		    3072	catatan_2_D.txt
+	          same		    2048	data_2_D.docx
+	          same		    1024	dokumen_2_D.pdf
+	          same		    4096	laporan_2_D.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_D\Subfolder_D3\
+	          same		    5120	aplikasi_3_D.bat
+	          same		    3072	catatan_3_D.txt
+	          same		    2048	data_3_D.docx
+	          same		    1024	dokumen_3_D.pdf
+	          same		    4096	laporan_3_D.csv
+	                   2	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_E\
+	          same		    2048	cofig_5.ini
+	          same		    3072	database_5.db
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E1\
+	          same		    5120	aplikasi_1_E.bat
+	          same		    3072	catatan_1_E.txt
+	          same		    2048	data_1_E.docx
+	          same		    1024	dokumen_1_E.pdf
+	          same		    4096	laporan_1_E.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E2\
+	          same		    5120	aplikasi_2_E.bat
+	          same		    3072	catatan_2_E.txt
+	          same		    2048	data_2_E.docx
+	          same		    1024	dokumen_2_E.pdf
+	          same		    4096	laporan_2_E.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_E\Subfolder_E3\
+	          same		    5120	aplikasi_3_E.bat
+	          same		    3072	catatan_3_E.txt
+	          same		    2048	data_3_E.docx
+	          same		    1024	dokumen_3_E.pdf
+	          same		    4096	laporan_3_E.csv
+	                   2	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_F\
+	          same		    2048	cofig_6.ini
+	          same		    3072	database_6.db
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F1\
+	          same		    5120	aplikasi_1_F.bat
+	          same		    3072	catatan_1_F.txt
+	          same		    2048	data_1_F.docx
+	          same		    1024	dokumen_1_F.pdf
+	          same		    4096	laporan_1_F.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F2\
+	          same		    5120	aplikasi_2_F.bat
+	          same		    3072	catatan_2_F.txt
+	          same		    2048	data_2_F.docx
+	          same		    1024	dokumen_2_F.pdf
+	          same		    4096	laporan_2_F.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_F\Subfolder_F3\
+	          same		    5120	aplikasi_3_F.bat
+	          same		    3072	catatan_3_F.txt
+	          same		    2048	data_3_F.docx
+	          same		    1024	dokumen_3_F.pdf
+	          same		    4096	laporan_3_F.csv
+	                   2	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_G\
+	          same		    2048	cofig_7.ini
+	          same		    3072	database_7.db
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G1\
+	          same		    5120	aplikasi_1_G.bat
+	          same		    3072	catatan_1_G.txt
+	          same		    2048	data_1_G.docx
+	          same		    1024	dokumen_1_G.pdf
+	          same		    4096	laporan_1_G.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G2\
+	          same		    5120	aplikasi_2_G.bat
+	          same		    3072	catatan_2_G.txt
+	          same		    2048	data_2_G.docx
+	          same		    1024	dokumen_2_G.pdf
+	          same		    4096	laporan_2_G.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_G\Subfolder_G3\
+	          same		    5120	aplikasi_3_G.bat
+	          same		    3072	catatan_3_G.txt
+	          same		    2048	data_3_G.docx
+	          same		    1024	dokumen_3_G.pdf
+	          same		    4096	laporan_3_G.csv
+	                   2	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_H\
+	          same		    2048	cofig_8.ini
+	          same		    3072	database_8.db
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H1\
+	          same		    5120	aplikasi_1_H.bat
+	          same		    3072	catatan_1_H.txt
+	          same		    2048	data_1_H.docx
+	          same		    1024	dokumen_1_H.pdf
+	          same		    4096	laporan_1_H.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H2\
+	          same		    5120	aplikasi_2_H.bat
+	          same		    3072	catatan_2_H.txt
+	          same		    2048	data_2_H.docx
+	          same		    1024	dokumen_2_H.pdf
+	          same		    4096	laporan_2_H.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_H\Subfolder_H3\
+	          same		    5120	aplikasi_3_H.bat
+	          same		    3072	catatan_3_H.txt
+	          same		    2048	data_3_H.docx
+	          same		    1024	dokumen_3_H.pdf
+	          same		    4096	laporan_3_H.csv
+	                   2	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_I\
+	          same		    2048	cofig_9.ini
+	          same		    3072	database_9.db
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I1\
+	          same		    5120	aplikasi_1_I.bat
+	          same		    3072	catatan_1_I.txt
+	          same		    2048	data_1_I.docx
+	          same		    1024	dokumen_1_I.pdf
+	          same		    4096	laporan_1_I.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I2\
+	          same		    5120	aplikasi_2_I.bat
+	          same		    3072	catatan_2_I.txt
+	          same		    2048	data_2_I.docx
+	          same		    1024	dokumen_2_I.pdf
+	          same		    4096	laporan_2_I.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_I\Subfolder_I3\
+	          same		    5120	aplikasi_3_I.bat
+	          same		    3072	catatan_3_I.txt
+	          same		    2048	data_3_I.docx
+	          same		    1024	dokumen_3_I.pdf
+	          same		    4096	laporan_3_I.csv
+	                   2	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_J\
+	          same		    2048	cofig_10.ini
+	          same		    3072	database_10.db
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J1\
+	          same		    5120	aplikasi_1_J.bat
+	          same		    3072	catatan_1_J.txt
+	          same		    2048	data_1_J.docx
+	          same		    1024	dokumen_1_J.pdf
+	          same		    4096	laporan_1_J.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J2\
+	          same		    5120	aplikasi_2_J.bat
+	          same		    3072	catatan_2_J.txt
+	          same		    2048	data_2_J.docx
+	          same		    1024	dokumen_2_J.pdf
+	          same		    4096	laporan_2_J.csv
+	                   5	C:\Users\dylaa\Desktop\SimulasiDrive_D\Folder_J\Subfolder_J3\
+	          same		    5120	aplikasi_3_J.bat
+	          same		    3072	catatan_3_J.txt
+	          same		    2048	data_3_J.docx
+	          same		    1024	dokumen_3_J.pdf
+	          same		    4096	laporan_3_J.csv
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        41         0        41         0         0         0
+   Files :       170         0       170         0         0         0
+   Bytes :   500.0 k         0   500.0 k         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Saturday, December 6, 2025 10:46:45 PM
+
